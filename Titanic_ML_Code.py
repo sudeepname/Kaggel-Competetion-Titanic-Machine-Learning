@@ -9,7 +9,7 @@ name of Kaggel competetion : Titanic: Machine Learning from Disaster
 here i have used 3 algorihims to predict my model and at last choose the one that produced me highes accuracy
 * First i did data preprocessing 
 * Then i used logistic regression if the score is above 0.5 then the model we are working is on the right path
-* to improve score i try 2 more algorithm i.e. RandomForest and XGBoosting'''
+* Final algorithm i used here is RandomForestClassifier and this model scored 0.75 in the competetion'''
 
 
 # In[2]:
